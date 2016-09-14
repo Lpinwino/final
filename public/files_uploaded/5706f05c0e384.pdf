@@ -1,0 +1,202 @@
+%PDF-1.6
+%Creator: WIRIS
+%MathML: <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>a</mi><mi>n</mi></msub><mo>&#x000A0;</mo><mo>=</mo><mo>&#x000A0;</mo><mfrac><msup><mi>a</mi><mi>n</mi></msup><mrow><mi>n</mi><mo>!</mo></mrow></mfrac></math>
+
+25 0 obj
+<< /Length 363 >> 
+stream
+BT
+/GS0 gs
+/F1 1 Tf
+0 0 0 rg
+16 0 2 16 0.5 25.5 Tm <0001> Tj
+/F2 1 Tf
+12 0 0 12 10.5 21.5 Tm <6e> Tj
+/F3 1 Tf
+16 0 0 16 24.5 25.5 Tm <0001> Tj
+2 J
+0 0 0 RG
+1 w 46.5 34.5 m 75.5 34.5 l
+S
+/F1 1 Tf
+16 0 2 16 52.5 41.5 Tm <0001> Tj
+/F2 1 Tf
+12 0 0 12 62.5 55.5 Tm <6e> Tj
+16 0 0 16 54.5 10.5 Tm <6e> Tj
+/F4 1 Tf
+16 0 0 16 64.5 10.5 Tm <21> Tj
+ET
+endstream
+endobj
+
+24 0 obj
+<< /Type /ExtGState /OPM 1 /LC 0 /LJ 1 >>
+endobj
+
+23 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> 
+endobj
+
+22 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >> 
+endobj
+
+20 0 obj
+<<
+ /Length1 496
+ /Length 1490
+ /Filter /ASCIIHexDecode
+>>
+stream
+00 01 00 00 00 08 00 80 00 03 00 40 63 76 74 20 0D 55 0D 07 00 00 00 8C 00 00 00 3A 67 6C 79 66 9B B6 CB 8A 00 00 00 C8 00 00 00 82 68 65 61 64 09 12 04 F7 00 00 01 4C 00 00 00 36 68 68 65 61 08 6B 0B 87 00 00 01 84 00 00 00 24 68 6D 74 78 34 66 44 1D 00 00 01 A8 00 00 00 08 6C 6F 63 61 00 1B 9F AD 00 00 01 B0 00 00 00 0C 6D 61 78 70 05 34 05 3E 00 00 01 BC 00 00 00 20 70 72 65 70 6B 5B AB 6A 00 00 01 DC 00 00 00 14 00 00 01 54 03 2C 00 80 01 00 00 56 00 2A 02 58 02 1E 01 0E 01 2C 02 2C 00 5A 01 80 02 80 00 A0 00 D4 00 80 00 00 00 00 00 00 00 2B 00 55 00 80 00 AB 00 D5 01 00 01 2B 00 07 00 00 00 02 00 55 00 00 03 00 03 AB 00 03 00 07 00 00 33 11 21 11 25 21 11 21 55 02 AB FD AB 02 00 FE 00 03 AB FC 55 55 03 00 00 02 00 80 00 EB 02 D5 02 15 00 03 00 07 00 35 18 01 B0 08 10 B0 05 D4 B0 05 10 B0 06 D4 B0 05 10 B0 00 3C B0 06 10 B0 01 3C 00 B0 08 10 B0 05 D4 B0 05 10 B0 04 D4 B0 04 10 B0 00 D4 B0 00 10 B0 03 D4 30 31 13 21 35 21 1D 01 21 35 80 02 55 FD AB 02 55 01 C0 55 D5 55 55 00 00 00 01 00 00 00 01 00 00 60 61 7D F0 5F 0F 3C F5 00 03 04 00 00 00 00 00 D2 BD 60 96 00 00 00 00 D2 BD 60 96 00 00 FF 20 04 80 03 AB 00 00 00 0A 00 02 00 01 00 00 00 00 00 01 00 00 03 E8 FF 6A 00 00 0B B8 00 00 FF B6 04 80 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 03 52 00 55 03 56 00 80 00 00 00 00 00 00 00 28 00 00 00 82 00 01 00 00 00 02 00 5E 00 05 00 00 00 00 00 02 00 80 04 00 00 00 00 00 04 00 00 DE 00 00 00 00 B9 07 11 00 00 8D 85 18 00 B2 00 00 00 15 14 13 B1 00 01 3F >
+endstream
+endobj
+
+17 0 obj
+<<
+ /Ascent 1000
+ /CapHeight 1000
+ /Descent -150
+ /Flags 196612
+ /FontBBox [ 85 0 768 939 ]
+ /FontFamily (BBBBBB+math1)
+ /FontFile2 20 0 R
+ /FontName /BBBBBB+math1
+ /ItalicAngle 0
+ /StemV 32766
+ /Type /FontDescriptor
+>>
+endobj
+
+8 0 obj
+<<
+ /Ascent 1854
+ /CapHeight 1854
+ /Descent -434
+ /Flags 196612
+ /FontBBox [ 45 -140 1027 1113 ]
+ /FontFamily (BBBBBB+a)
+ /FontFile2 11 0 R
+ /FontName /BBBBBB+a
+ /ItalicAngle 0
+ /StemV 32766
+ /Type /FontDescriptor
+>>
+endobj
+
+16 0 obj
+<<
+ /Ordering (Identity)
+ /Registry (Adobe)
+ /Supplement 0
+>>
+endobj
+
+7 0 obj
+<<
+ /Ordering (Identity)
+ /Registry (Adobe)
+ /Supplement 0
+>>
+endobj
+
+14 0 obj
+<<
+ /BaseFont /BBBBBB+math1
+ /CIDSystemInfo 16 0 R
+ /CIDToGIDMap /Identity
+ /DW 1000
+ /FontDescriptor 17 0 R
+ /Subtype /CIDFontType2
+ /Type /Font
+>>
+endobj
+
+5 0 obj
+<<
+ /BaseFont /BBBBBB+a
+ /CIDSystemInfo 7 0 R
+ /CIDToGIDMap /Identity
+ /DW 1000
+ /FontDescriptor 8 0 R
+ /Subtype /CIDFontType2
+ /Type /Font
+>>
+endobj
+
+4 0 obj
+<<
+ /BaseFont /BBBBBB+a
+ /DescendantFonts [ 5 0 R ]
+ /Encoding /Identity-H
+ /Subtype /Type0
+ /Type /Font
+>>
+endobj
+
+13 0 obj
+<<
+ /BaseFont /BBBBBB+math1
+ /DescendantFonts [ 14 0 R ]
+ /Encoding /Identity-H
+ /Subtype /Type0
+ /Type /Font
+>>
+endobj
+
+3 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 4 0 R /F3 13 0 R /F2 22 0 R /F4 23 0 R >> /ExtGState << /GS0 24 0 R >> /ProcSet [/PDF /Text] >> /Contents 25 0 R >>
+endobj
+
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 /MediaBox [0 0 79 73]  >>
+endobj
+
+11 0 obj
+<<
+ /Length1 516
+ /Length 1550
+ /Filter /ASCIIHexDecode
+>>
+stream
+00 01 00 00 00 08 00 80 00 03 00 40 63 76 74 20 00 00 00 07 00 00 00 8C 00 00 00 04 67 6C 79 66 86 2B C5 50 00 00 00 90 00 00 00 D1 68 65 61 64 08 96 09 32 00 00 01 64 00 00 00 36 68 68 65 61 0B 45 0A 09 00 00 01 9C 00 00 00 24 68 6D 74 78 1C 84 00 85 00 00 01 C0 00 00 00 08 6C 6F 63 61 00 00 05 4A 00 00 01 C8 00 00 00 0C 6D 61 78 70 04 8A 04 5B 00 00 01 D4 00 00 00 20 70 72 65 70 BA 46 A7 18 00 00 01 F4 00 00 00 0D 00 00 00 07 00 02 00 55 00 00 03 00 03 AB 00 03 00 07 00 00 33 11 21 11 25 21 11 21 55 02 AB FD AB 02 00 FE 00 03 AB FC 55 55 03 00 00 03 00 2D FF 74 04 03 04 59 00 0B 00 17 00 1D 00 3B 18 01 B0 1D 10 B0 03 D4 B0 03 10 B0 14 D4 B0 14 10 B0 1C D4 B0 1C 10 B0 09 D4 B0 1C 10 B0 0E 3C B0 09 10 B0 1B 3C 00 B0 06 10 B0 11 D4 B0 06 10 B0 00 D4 B0 00 10 B0 17 D4 30 31 01 22 00 11 16 12 33 32 12 37 10 26 06 16 03 02 06 23 22 26 35 34 36 33 01 35 06 13 23 12 02 01 B3 FE DF 16 F5 B2 D3 BA 03 85 86 70 16 0C 4E 85 59 B2 B2 85 01 ED 8C 04 B2 51 04 59 FE DF FE DE F5 FE DF 01 33 E3 01 A7 9C B2 2D FE 9D FF 00 65 C8 9C DF B2 FC 59 8C 5D 01 E7 FD 5E 00 00 00 00 01 00 00 00 01 00 00 BD F2 32 04 5F 0F 3C F5 00 03 08 00 00 00 00 00 D2 BD 5F 7D 00 00 00 00 D2 BD 5F 7D 00 01 FE F5 04 03 06 43 00 00 00 0A 00 02 00 01 00 00 00 00 00 01 00 00 07 3E FE 4E 00 00 0B B8 00 01 FF FC 04 03 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 03 52 00 55 04 4C 00 2D 00 00 00 00 00 00 00 28 00 00 00 D1 00 01 00 00 00 02 00 1E 00 03 00 00 00 00 00 02 00 80 04 00 00 00 00 00 04 00 00 3B 00 00 00 00 B9 07 22 00 00 8D 85 18 00 B2 00 00 00 00 00 00 >
+endstream
+endobj
+
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+
+xref
+0 26
+0000000000 65535 f
+0000005726 00000 n
+0000003987 00000 n
+0000003795 00000 n
+0000003521 00000 n
+0000003350 00000 n
+0000000001 00000 n
+0000003086 00000 n
+0000002750 00000 n
+0000000001 00000 n
+0000000001 00000 n
+0000004072 00000 n
+0000000001 00000 n
+0000003655 00000 n
+0000003172 00000 n
+0000000001 00000 n
+0000002999 00000 n
+0000002497 00000 n
+0000000001 00000 n
+0000000001 00000 n
+0000000903 00000 n
+0000000001 00000 n
+0000000818 00000 n
+0000000741 00000 n
+0000000678 00000 n
+0000000256 00000 n
+
+trailer << /Root 1 0 R /Size 26 >>
+startxref 5780
+
+%%EOF
