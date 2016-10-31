@@ -39,12 +39,12 @@
 				<div class ="form-group">
 					<label for="phone" class="col-lg-2 control-label">Telefono</label>
 					<div class="col-lg-10">
-						<input type="text" class="form-control" placeholder="Phone" name="phone"
+						<input type="text" class="form-control" placeholder="Telefono" name="phone"
 					value="{{ $user->phone}}">
 					</div>
 				</div>
 
-				@if(Auth::user()->roles[0]->name == "manager")
+				@if(@Auth::user()->roles[0]->name == "manager")
 				<div class ="form-group">
 					<label for="select" class="col-lg-2 control-label">Rol</label>
 					<div class="col-lg-10">
@@ -59,7 +59,7 @@
 					</div>
 				</div>
 				@else
-					<input type="hidden" value="{{ Auth::user()->roles[0]->id }}" name="role[]">
+					<input type="hidden" value="{{ @Auth::user()->roles[0]->id }}" name="role[]">
 				@endif
 				<div class ="form-group">
 					<label for="password" class="col-lg-2 control-label">Password</label>
@@ -75,7 +75,7 @@
 				</div>
 				<div class="form-group is-empty is-fileinput">
 					<div class="col-xs-12">
-						<input type="file" name="picture">
+						<input type="file" name="picture" id="image" accept="image/gif, image/jpeg, image/png" />
 						<div class="input-group">
 							<input type="text" readonly="" class="form-control" placeholder="Image">
 							<span class="input-group-btn input-group-sm">

@@ -17,7 +17,7 @@ use App\User;
 class EventsController extends Controller
 {
     public function __construct(){
-        $this->middleware('auth');
+        $this->middleware('auth', ['except' => 'revisionEvents']);
     }
     /**
      * Display a listing of the resource.
@@ -255,18 +255,15 @@ class EventsController extends Controller
         if(count($todayEvents)>=1){
             // print_r($todayEvents);
             foreach($users as $user){
-                
                     //Enviar correos.
-                    //Formar correo con blade. 
+                    //Formar correo con blade.
                     //Enviar correo a usuario o lista de usaurios de base de datos.
                     //view('emails.lista_eventos')->with('events', $todayEvents);
                    Mail::send("emails.lista_eventos", array('events' => $todayEvents, 'user' => $user), function($message)use ($user){
                        $message->to($user->email, $user->name)
                                 ->bcc('abraham.vazquez@tectijuana.edu.mx')
                                 ->subject('Eventos del dia de hoy');
-                    // echo "entra aqui ";
                             });
-                   
             }
         }
     }

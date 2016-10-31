@@ -18,7 +18,7 @@
 		</div>
 		@endif
 		@if ($users->isEmpty())
-		<p> There is no user.</p>
+		<p> No hay Usuarios.</p>
 		@else
 		<table class="table">
 			<thead>

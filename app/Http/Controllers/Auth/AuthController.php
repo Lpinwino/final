@@ -62,8 +62,8 @@ class AuthController extends Controller
         ]);
 
         
-        // $create->roles()->attach(2);
-        // $create->save();
+        $create->roles()->attach(2);
+        $create->save();
         return $create;
     }
 

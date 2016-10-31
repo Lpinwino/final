@@ -31,7 +31,7 @@ class UserEditFormRequest extends Request
             'role'=> 'required',
             'password'=>'min:6|confirmed',
             'password_confirmation'=>'min:6',
-            'phone' => 'required|numeric'
+            'phone' => 'required|numeric|min:10',
         ];
     }
 }

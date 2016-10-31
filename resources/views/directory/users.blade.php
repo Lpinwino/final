@@ -4,7 +4,7 @@
 <div class="container col-md-8 col-md-offset-2">
 	<div class="panel panel-default">
 		<div class="panel-heading">
-			<h2> Directory </h2>
+			<h2> Directorio </h2>
 		</div>
 		@if (session('status'))
 		<div class="alert alert-success">

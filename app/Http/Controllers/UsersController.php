@@ -71,8 +71,8 @@ class UsersController extends Controller{
 		$selectedRoles = $user->roles->lists('id')->toArray();
 		return view('backend.users.edit', compact('user', 'roles', 'selectedRoles'));
 	}
-
-	public function update($id, UserEditFormRequest $request)
+ 
+ 	public function update($id, UserEditFormRequest $request)
 	{
 		$user = User::whereId($id)->firstOrFail();
 		$user->name = $request->get('name');
@@ -90,7 +90,7 @@ class UsersController extends Controller{
     	}
 		$user->save();
 		$user->saveRoles($request->get('role'));
-		return redirect(action('Admin\UsersController@edit', $user->id))->with('status', 'The user has been updated!');
+		return redirect(action('Admin\UsersController@edit', $user->id))->with('status', 'El Usuario a sido actualizado!');
 	}
 
 	public function saveImage($request)
